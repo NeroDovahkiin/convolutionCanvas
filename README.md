@@ -17,3 +17,4 @@ Donde i y j son las posiciones de cada pixel, al realizar un recorrido por la ma
 
 ![example of convolution](https://miro.medium.com/v2/resize:fit:720/format:webp/1*-OM6jQTMNACDX2vAh_lvMQ.png)
 
+![example of convolution](https://github.com/NeroDovahkiin/convolutionCanvas/blob/master/img/example.png)
